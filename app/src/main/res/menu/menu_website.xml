@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.arved95.tmet.WebsiteActivity">
+    <item
+        android:id="@+id/iconactionbar"
+        android:icon="@mipmap/ic_launcher"
+        android:title=""
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/refresh_button"
+        android:icon="@drawable/ic_refresh_white_48dp"
+        android:title=""
+        app:showAsAction="always"/>
+</menu>
